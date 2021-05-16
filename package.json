@@ -27,9 +27,9 @@
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-typescript": "^7.1.0",
     "@glennsl/bs-jest": "^0.4.7",
-    "@graphql-codegen/cli": "^1.5.0",
-    "@graphql-codegen/core": "^1.5.0",
-    "@graphql-codegen/plugin-helpers": "^1.5.0",
+    "@graphql-codegen/cli": "^1.21.4",
+    "@graphql-codegen/core": "1.17.9",
+    "@graphql-codegen/plugin-helpers": "^1.18.5",
     "@types/graphql": "^14.0.5",
     "@types/jest": "^24.0.17",
     "@types/lodash": "^4.14.120",
@@ -39,8 +39,8 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "graphql": "^14.1.1",
-    "graphql-tag": "^2.10.1",
+    "graphql": "^15.5.0",
+    "graphql-tag": "^2.12.4",
     "lodash": "^4.17.11",
     "reason": "^3.3.4"
   },
